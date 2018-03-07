@@ -5,7 +5,3 @@ function shout (hello) {
 function whisper (HELLO) {
   return"HELLO".toLowerCase()
 }
-
-
-
-
